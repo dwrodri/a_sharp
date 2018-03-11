@@ -1,4 +1,1 @@
-C Major C D E F G A B
-D Minor D E F_sharp G A B C_sharp
-A Minor A B C D E F G
-D Dorian D E F G A B C
+python3 hail_mary.py
